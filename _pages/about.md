@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Abubakar is pursuing a master's degree in Advanced Computer Science at Newcastle University in the UK, focusing on computer security. His research interest primarily revolves around striking the optimal balance between effective security measures and user convenience in digital environments.
+Abubakar is pursuing a master's degree in Advanced Computer Science at Newcastle University, focusing on computer security. His research interest primarily revolves around striking the optimal balance between effective security measures and user convenience in digital environments.
 
 Abubakar earned his Bachelor's degree in computer science with first-class honours from Fountain University Osogbo, Nigeria. Before pursuing his Bachelor's degree, Abubakar earned a National Diploma in Computer Science, equivalent to an Associate degree, from Federal Polytechnic Bida, Nigeria. This early academic experience was his initial step into computer science, setting him on the path to his current academic and research pursuits.
 
@@ -18,11 +18,9 @@ News
 
 2023-10:      I am thrilled to be starting a new role as a Student Ambassador at Newcastle University.
 
-2023-09:      Excited to have started a Master’s at Newcastle University.
+2023-09:      Excited to have started a Master’s program at Newcastle University.
 
 2023-07:      Received the honour of being among the 1,364  awardees (1.9%), selected from 72000 applicants, for the Chevening scholarship.
-
-2023-07:      Declined the Commonwealth Shared Scholarship offer for study at the University of Stirling.
 
 2022-10:      Completed my mandatory National Youth Service as a teaching assistant at Kaduna State University.
 
