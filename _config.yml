@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shittu's Homepage"
+title                    : "A.S. Shittu"
 title_separator          : "-"
 name                     : &name "Abubakar Sadiq Shittu"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abubakar Sadiq Shittu"
   avatar           : "headerr.png"
-  bio              : "Chevening Scholar @ Newcastle University"
+  bio              : "Chevening Scholar"
   location         : "Newcastle Upon Tyne, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=87HBzeIAAAAJ&hl=en"
