@@ -1,1 +1,11 @@
+main:
+
+ - title: "Publications"
+    #url: /https:/scholar.google.com/citations?user=87HBzeIAAAAJ&hl=en/
+
+  - title: "CV"
+    #url: /files/resume.pdf
+
+  - title: "Awards & Honors"
+    #url: /awards/ 
 
