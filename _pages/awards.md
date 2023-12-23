@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
- #  Accepted Awards
 * 2023 Chevening Scholarship	Funding for master’s degree at Newcastle University.
     * Award body: The UK Foreign, Commonwealth and Development Office.
     * Value: Approximately £50,000.
