@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
  #  Accepted Awards
-*	2023 Chevening Scholarship	Funding for master’s degree at Newcastle University.
-*	    Award body: The UK Foreign, Commonwealth and Development Office.
-*	    Value: Approximately £50,000.
-*	    Competitiveness: Top 1.9% of about 71912 Applicants.
+* 2023 Chevening Scholarship	Funding for master’s degree at Newcastle University.
+    * Award body: The UK Foreign, Commonwealth and Development Office.
+    * Value: Approximately £50,000.
+    * Competitiveness: Top 1.9% of about 71912 Applicants.
 * 2019 Most Outstanding Student Award, College of Natural and Applied Science, Fountain University Osogbo.
 
 #  Declined Scholarships
