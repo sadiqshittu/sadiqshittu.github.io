@@ -13,6 +13,8 @@ Abubakar earned his Bachelor's degree in computer science with first-class honou
 
 Ultimately, Abubakar has a deep passion for cybersecurity and aims to become a prominent figure in the field.
 
+[this repository](https://github.com/academicpages/academicpages.github.io)
+
 News
 ======
 
@@ -24,5 +26,5 @@ News
 
 2022-10:      Completed my mandatory National Youth Service as a teaching assistant at Kaduna State University.
 
-2022-06:      Delighted to be having my debut academic presentation at the CONAS Conference at Fountain University Osogbo [-https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/].
+2022-06:      Delighted to be having my debut academic presentation at the [CONAS Conference at Fountain University Osogbo] (https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/)
 
