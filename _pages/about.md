@@ -16,7 +16,7 @@ Ultimately, Abubakar has a deep passion for cybersecurity and aims to become a p
 News
 ======
 
-2023-10:      Thrilled to be starting a new role as a Student Ambassador at Newcastle University.
+2023-10:      Thrilled to be starting a new role as a Student Ambassador at Newcastle University .
 
 2023-09:      Excited to have started a Master’s program at Newcastle University.
 
@@ -24,5 +24,5 @@ News
 
 2022-10:      Completed my mandatory National Youth Service as a teaching assistant at Kaduna State University.
 
-2022-06:      Delighted to be having my debut academic presentation at the CONAS Conference at Fountain University Osogbo.
+2022-06:      Delighted to be having my debut academic presentation at the CONAS Conference at Fountain University Osogbo [-https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/].
 
