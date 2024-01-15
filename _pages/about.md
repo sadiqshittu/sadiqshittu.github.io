@@ -2,7 +2,7 @@
 permalink: /
 title: "Abubakar Sadiq Shittu"
 excerpt: "My profile"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
