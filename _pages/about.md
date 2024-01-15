@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Abubakar Sadiq Shittu"
 excerpt: "My profile"
 author_profile: true
 redirect_from: 
