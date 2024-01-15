@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Abubakar Sadiq Shittu"
+title: ""
 excerpt: "My profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Bio
+======
 Abubakar is pursuing a master's degree in advanced computer science, focusing on computer security at Newcastle University. His research interest primarily revolves around striking the optimal balance between effective security measures and user convenience in digital environments.
 
 Abubakar earned his Bachelor's degree in computer science with first-class honours from Fountain University Osogbo, Nigeria. Before pursuing his Bachelor's degree, Abubakar earned a National Diploma (associate degree) in Computer Science from Federal Polytechnic Bida, Nigeria. This initial foray into computer science laid the groundwork for his current academic and research endeavours.
