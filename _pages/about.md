@@ -21,7 +21,7 @@ News
 
 2023-09:      Excited to have started a Master’s program at Newcastle University.
 
-2023-07:      Super elated to have been [#ChosenforChevening](https://www.chevening.org/scholarships/)
+2023-07:      Super elated to have been [#ChosenforChevening](https://www.chevening.org/scholarships/).
 
 2022-10:      Completed my mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html) as a teaching assistant at Kaduna State University.
 
