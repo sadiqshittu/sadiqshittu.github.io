@@ -18,7 +18,7 @@ Ultimately, Abubakar has a deep passion for cybersecurity and aims to become a p
 
 News
 ======
-2024-Feb:&nbsp            Ecstatic to be selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
+2024-Feb:&nbsp nbsp nbsp nbsp            Ecstatic to be selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
 
 2023-Oct: &nbsp           Thrilled to be starting a new role as a Student Ambassador at Newcastle University.
 
