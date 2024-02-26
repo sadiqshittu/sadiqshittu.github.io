@@ -18,14 +18,15 @@ Ultimately, Abubakar has a deep passion for cybersecurity and aims to become a p
 
 News
 ======
+2024-Feb:      Ecstatic to be selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
 
-2023-10:      Thrilled to be starting a new role as a Student Ambassador at Newcastle University.
+2023-Oct:      Thrilled to be starting a new role as a Student Ambassador at Newcastle University.
 
-2023-09:      Excited to have started a Master’s program at Newcastle University.
+2023-Sept:     Excited to have started a Master’s program at Newcastle University.
 
-2023-07:      Super elated to have been [#ChosenforChevening](https://www.chevening.org/scholarships/).
+2023-July:     Super elated to have been [#ChosenforChevening](https://www.chevening.org/scholarships/).
 
-2022-10:      Completed my mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html) as a teaching assistant at Kaduna State University.
+2022-Oct:      Completed my mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html) at the Kaduna State University.
 
-2022-06:      Delighted to be having my debut academic presentation at the [CONAS Conference at Fountain University Osogbo](https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/).
+2022-June:     Delighted to be having my debut academic presentation at the [CONAS Conference at Fountain University Osogbo](https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/).
 
