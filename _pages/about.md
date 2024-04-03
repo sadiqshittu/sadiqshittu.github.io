@@ -9,16 +9,14 @@ redirect_from:
 ---
 Bio
 ======
-Abubakar is pursuing a master's degree in advanced computer science, focusing on computer security at Newcastle University. His research interest primarily revolves around striking the optimal balance between effective security measures and user convenience in digital environments.
+Abubakar is a master's student in advanced computer science at Newcastle University, focusing on security and resilience. His research interests revolve primarily around striking the optimal balance between effective security measures and user convenience.
 
-Abubakar earned his Bachelor's degree in computer science with first-class honours from Fountain University Osogbo, Nigeria. Before pursuing his Bachelor's degree, Abubakar earned a National Diploma (associate degree) in Computer Science from Federal Polytechnic Bida, Nigeria. This initial foray into computer science laid the groundwork for his current academic and research endeavours.
-
-Ultimately, Abubakar has a deep passion for cybersecurity and aims to become a prominent figure in the field.
+Abubakar earned his Bachelor's degree in computer science with first-class honours from Fountain University Osogbo, Nigeria. Before pursuing his Bachelor's degree, Abubakar earned a National Diploma in Computer Science from Federal Polytechnic Bida, Nigeria. This initial foray into computer science laid the groundwork for his current academic and research pursuits. Ultimately, Abubakar has a deep passion for computer security and aims to become a prominent figure in the field.
 
 
 News
 ======
-**2024-Feb**:        Ecstatic to be selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
+**2024-Feb**:        Ecstatic to have been selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
 
 **2023-Oct**:        Thrilled to be starting a new role as a Student Ambassador at Newcastle University.
 
@@ -28,5 +26,5 @@ News
 
 **2022-Oct**:        Completed my mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html) at the Kaduna State University.
 
-**2022-June**:       Delighted to be having my debut academic presentation at the [CONAS Conference at Fountain University Osogbo](https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/).
+**2022-June**:       Delighted to be giving my debut academic presentation at the [CONAS Conference at Fountain University Osogbo](https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/).
 
