@@ -9,9 +9,9 @@ redirect_from:
 ---
 Bio
 ======
-Abubakar is a master's student in advanced computer science at Newcastle University, focusing on security and resilience. His research interests revolve primarily around striking the optimal balance between effective security measures and user convenience.
+I am a master's student in advanced computer science at Newcastle University. My research interest lies in human-centered security and privacy, focusing on how human factors influence issues related to system’s security and privacy. 
 
-Abubakar earned his Bachelor's degree in computer science with first-class honours from Fountain University Osogbo, Nigeria. Before pursuing his Bachelor's degree, Abubakar earned a National Diploma in Computer Science from Federal Polytechnic Bida, Nigeria. This initial foray into computer science laid the groundwork for his current academic and research pursuits. Ultimately, Abubakar has a deep passion for computer security and aims to become a prominent figure in the field.
+Previously, I received my BS in computer science with first-class honours from Fountain University Osogbo and a National Diploma in Computer Science from Federal Polytechnic Bida, Nigeria. 
 
 
 News
