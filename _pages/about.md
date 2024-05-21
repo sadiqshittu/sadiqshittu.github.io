@@ -9,7 +9,7 @@ redirect_from:
 ---
 Bio
 ======
-I am a master's student in advanced computer science at Newcastle University. My research interest is in human-centered (cyber)security and privacy. Specifically, the use of empirical methods to explore how end users influence computer security and privacy issues. 
+I am a master's student in advanced computer science at Newcastle University. My research interest is in human-centered (cyber)security and privacy. Specifically, the use of empirical methods to explore how end users influence computer security and privacy issues. Additionally, I am an incoming doctoral student at the University of Tennessee, Knoxville, where I aim to further advance my research in this field.
 
 Previously, I received my BS in computer science with first-class honours from Fountain University Osogbo and a National Diploma in Computer Science from Federal Polytechnic Bida, Nigeria. 
 
