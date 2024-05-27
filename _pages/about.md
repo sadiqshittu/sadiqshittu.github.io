@@ -16,6 +16,8 @@ Previously, I received my BS in computer science with first-class honours from F
 
 News
 ======
+**2024-May**:        Happy to have been selected to participate in the [CISPA Summer School 2024 – Usable Security]([https://summerschool-croatia.cs.ru.nl/2024/](https://cispa.de/summer-school-usable)) in Saarbrücken, Germany.
+
 **2024-Feb**:        Ecstatic to have been selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
 
 **2023-Oct**:        Thrilled to be starting a new role as a Student Ambassador at Newcastle University.
