@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 Bio
-I am an incoming doctoral student at the University of Tennessee, Knoxville, with a research focus on human-centered cybersecurity and privacy. Specifically, I am interested in using empirical methods to explore how end users influence computer security and privacy issues. I previously received my MS from Newcastle University, under the supervision of [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and earned a BS in Computer Science with First-Class Honours from Fountain University Osogbo, where I was supervised by [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
+======
+I am an incoming doctoral student at the University of Tennessee, Knoxville, joining the [USER Lab](https://userlab.utk.edu/) with a research focus on human-centered cybersecurity and privacy. Specifically, I am interested in using empirical methods to explore how end users influence computer security and privacy issues. I previously received my M.Sc. from Newcastle University, under the supervision of [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and earned a B.Sc. in Computer Science with First-Class Honours from Fountain University Osogbo, where I was supervised by [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
 
 News
 ======
