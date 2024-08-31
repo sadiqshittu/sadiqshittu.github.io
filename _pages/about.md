@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 Bio
-======
-I am a master's student in advanced computer science at Newcastle University. My research interest is in human-centered (cyber)security and privacy. Specifically, the use of empirical methods to explore how end users influence computer security and privacy issues. Additionally, I am an incoming doctoral student at the University of Tennessee, Knoxville, where I aim to further advance my research in this field.
-
-Previously, I received my BS in computer science with first-class honours from Fountain University Osogbo and a National Diploma in Computer Science from Federal Polytechnic Bida, Nigeria. 
-
+I am an incoming doctoral student at the University of Tennessee, Knoxville, with a research focus on human-centered cybersecurity and privacy. Specifically, I am interested in using empirical methods to explore how end users influence computer security and privacy issues. I previously received my MS from Newcastle University, under the supervision of [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and earned a BS in Computer Science with First-Class Honours from Fountain University Osogbo, where I was supervised by [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
 
 News
 ======
