@@ -9,7 +9,9 @@ redirect_from:
 ---
 Bio
 ======
-I am an incoming doctoral student at the University of Tennessee, Knoxville, joining the [USER Lab](https://userlab.utk.edu/) with a research focus on human-centered cybersecurity and privacy. Specifically, I am interested in using empirical methods to explore how end users influence computer security and privacy issues. I previously received my M.Sc. from Newcastle University, under the supervision of [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and earned a B.Sc. in Computer Science with First-Class Honours from Fountain University Osogbo, where I was supervised by [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
+Abubakar is a Ph.D. student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, Knoxville, specializing in human-centered cybersecurity and privacy under the guidance of [Dr. Scott](https://userlab.utk.edu/scott-ruoti).
+
+He earned an M.Sc. with Distinction from Newcastle University, supervised by [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and a First-Class B.Sc. in Computer Science from Fountain University Osogbo, supervised by [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
 
 News
 ======
