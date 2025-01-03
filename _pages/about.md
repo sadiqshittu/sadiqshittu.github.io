@@ -17,11 +17,9 @@ News
 ======
 **2025-Jan**:        Excited to kick off my PhD journey at the University of Tennessee Knoxville!
 
-**2024-May**:        Delighted that my  travel grant application to attend the [CISPA Summer School 2024 – Usable Security](https://cispa.de/summer-school-usable) in Saarbrücken, Germany has been accepted.
+**2024-May**:        Delighted that my travel grant application to attend the [CISPA Summer School 2024 – Usable Security](https://cispa.de/summer-school-usable) in Saarbrücken, Germany has been accepted.
 
 **2024-Feb**:        Ecstatic to have been selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
-
-**2023-Oct**:        Thrilled to be starting a new role as a Student Ambassador at Newcastle University.
 
 **2023-Sept**:       Excited to have started a Master’s program at Newcastle University.
 
