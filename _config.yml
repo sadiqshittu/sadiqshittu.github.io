@@ -83,7 +83,7 @@ author:
   name             : "Abubakar Sadiq Shittu"
   avatar           : "header.jpg"
   bio              : ""
-  location         : "Knoxville,TN,USA"
+  location         : "Knoxville, TN, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=87HBzeIAAAAJ&hl=en"
   email            : "ashittu@tennessee.edu"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "fieldmarshal0"
+  twitter          : #"fieldmarshal0"
   vine             :
   weibo            :
   xing             :
