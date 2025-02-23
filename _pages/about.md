@@ -9,7 +9,7 @@ redirect_from:
 ---
 Bio
 ======
-I am a Ph.D. student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, fortunate to be advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti) My research focuses on key management design principles and user practices for secure and effective cryptographic secret management.
+I am a Ph.D. student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, fortunate to be advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research focuses on key management design principles and user practices for secure and effective cryptographic secret management.
 
 Previously, I earned an M.Sc. with Distinction from Newcastle University, where I was supervised by [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and a First-Class Honours B.Sc. in Computer Science from Fountain University Osogbo, under the supervision of [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
 
