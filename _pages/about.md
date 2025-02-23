@@ -9,9 +9,9 @@ redirect_from:
 ---
 Bio
 ======
-Abubakar is a doctoral researcher in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, Knoxville, specializing in human-centered cybersecurity and privacy under the guidance of [Dr. Scott](https://userlab.utk.edu/scott-ruoti).
+I am a Ph.D. student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, fortunate to be advised by [Dr. Scott](https://userlab.utk.edu/scott-ruoti) My research focuses on key management design principles and user practices for secure and effective cryptographic secret management.
 
-He earned an M.Sc. with Distinction from Newcastle University, supervised by [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and a First-Class B.Sc. in Computer Science from Fountain University Osogbo, supervised by [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
+Previously, I earned an M.Sc. with Distinction from Newcastle University, where I was supervised by [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and a First-Class Honours B.Sc. in Computer Science from Fountain University Osogbo, under the supervision of [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
 
 News
 ======
