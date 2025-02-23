@@ -15,7 +15,7 @@ Previously, I earned an M.Sc. with Distinction from Newcastle University, where 
 
 News
 ======
-**2025-Jan**:        Excited to kick off my PhD journey at the University of Tennessee Knoxville!
+**2025-Jan**:        Excited to kick off my PhD journey at the University of Tennessee, Knoxville!
 
 **2024-May**:        Delighted that my travel grant application to attend the [CISPA Summer School 2024 – Usable Security](https://cispa.de/summer-school-usable) in Saarbrücken, Germany has been accepted.
 
