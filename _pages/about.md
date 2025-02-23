@@ -26,6 +26,3 @@ News
 **2023-July**:       Super elated to have been [#ChosenforChevening](https://www.chevening.org/scholarships/).
 
 **2022-Oct**:        Completed my mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html) at the Kaduna State University.
-
-**2022-June**:       Delighted to be giving my debut academic presentation at the [CONAS Conference at Fountain University Osogbo](https://fuo.edu.ng/innovative-tools-in-science-and-technology-for-global-development/).
-
