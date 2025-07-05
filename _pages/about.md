@@ -9,7 +9,8 @@ redirect_from:
 ---
 Bio
 ======
-I am a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, fortunate to be advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). I am studying how users handle cryptographic key in practice. 
+I am doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), studying how users manage cryptographic keys in practice.
+
 
 I earned an M.Sc. with Distinction from Newcastle University, supervised by [Professor Thomas Groß](https://www.ncl.ac.uk/computing/staff/profile/thomasgross.html), and a First-Class B.Sc. in Computer Science from Fountain University Osogbo, under [Dr. Mohammed Lawal](https://fuo.edu.ng/personnel/lawal-mohammed/).
 
