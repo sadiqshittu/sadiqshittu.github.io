@@ -9,10 +9,7 @@ redirect_from:
 ---
 Bio
 ======
-I am a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research interests are broadly in human-centered security and privacy. I use a combination of qualitative and quantitative methods to understand how people interact with systems and to make secure practices easier and more reliable. I focus on two main areas:  
-
-I. **Authentication**: I study alternatives to passwords.  
-II. **Key Management**: I study how users manage their cryptographic keys in practice and identify pain points in real workflows.  
+I am a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research interests are broadly in human-centered security and privacy. I use a combination of qualitative and quantitative methods to understand how people interact with systems and to make secure practices easier and more reliable. I focus on two main areas:  **Authentication**: I study alternatives to passwords. **Key Management**: I study how users manage their cryptographic keys in practice and identify pain points in real workflows.  
 
 
 News
