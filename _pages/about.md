@@ -23,4 +23,4 @@ News
 
 **2023-July**:       [#ChosenforChevening](https://www.chevening.org/scholarships/).
 
-**2022-Oct**:        Completed my mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html)
+**2022-Oct**:        Completed Nigeria's mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html)
