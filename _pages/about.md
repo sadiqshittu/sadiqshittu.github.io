@@ -11,7 +11,7 @@ Bio
 ======
 I am a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research sits at the intersection of human-centered security and privacy. [Murphy’s first Law of Cryptography](https://www.aumasson.jp/murphy.html) inspires my research: “cryptography turns a security problem into a key management problem.”
 
-Before cryptography, the challenge was simple: “How do we keep data secret?” With cryptography, we have the math to guarantee confidentiality, integrity, and authenticity — but only if secret keys are generated, shared, stored, rotated, and revoked correctly. My work digs into these key management headaches by studying how users actually manage cryptographic keys.
+Before cryptography, the challenge was “How do we keep data secret?” Today, cryptography provides the maths to guarantee confidentiality, integrity, and authenticity, but only if secret keys are generated, shared, stored, rotated, and revoked correctly. My work addresses these key management challenges by examining how users actually manage cryptographic keys in practice 
 
 
 News
