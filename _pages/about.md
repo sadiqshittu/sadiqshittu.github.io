@@ -9,10 +9,9 @@ redirect_from:
 ---
 Bio
 ======
-I am a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research interests are broadly in human-centered security and privacy. I use a combination of qualitative and quantitative methods to understand how people interact with systems and to make secure practices easier and more reliable. I focus on two main areas:  
+I am a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research sits at the intersection of human-centered security and privacy. [Murphy’s first Law of Cryptography] (https://www.aumasson.jp/murphy.html) inspires my research: “cryptography turns a security problem into a key management problem.”
 
-- Authentication: I study alternatives to passwords.  
-- Key Management: I study how users manage their cryptographic keys in practice and identify pain points in real workflows.
+Before cryptography, the challenge was simple: “How do we keep data secret?” With cryptography, we have the math to guarantee confidentiality, integrity, and authenticity — but only if secret keys are generated, shared, stored, rotated, and revoked correctly. My work digs into these key management headaches by studying how users actually manage cryptographic keys.
 
 
 News
