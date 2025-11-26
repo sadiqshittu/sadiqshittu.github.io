@@ -15,8 +15,6 @@ Bio
 
 News
 ======
-**2024-May**:        Awarded a travel grant to attend the [CISPA Summer School 2024 – Usable Security](https://cispa.de/summer-school-usable) in Saarbrücken, Germany.
-
 **2024-Feb**:        Selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
 
 **2023-July**:       [#ChosenforChevening](https://www.chevening.org/scholarships/).
