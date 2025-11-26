@@ -10,7 +10,7 @@ redirect_from:
 Bio
 ======
 
-[Murphy’s first Law of Cryptography](https://www.aumasson.jp/murphy.html) says: ‘cryptography turns a security problem into a key management problem.’ Before cryptography, the challenge was _“How do we keep data secret?”_ Today, cryptography provides the maths that guarantees security, but only if secret keys are managed correctly. As a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), my work explores how users handle those.
+[‘cryptography turns a security problem into a key management problem.’](https://www.aumasson.jp/murphy.html)’ Before cryptography, the challenge was _“How do we keep data secret?”_ Today, cryptography provides the maths that guarantees security, but only if secret keys are managed correctly. As a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), my work explores how users handle these secret keys.
 
 
 News
