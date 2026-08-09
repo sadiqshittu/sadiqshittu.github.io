@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Historically, security used to mean simply hiding data, but today [“cryptography turns a security problem into a key management problem.”](https://www.aumasson.jp/murphy.html) Because of this shift, my doctoral research at the University of Tennessee's [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), focuses on how users actually manage these keys.
+Historically, the problem was simply protecting data. Today, cryptography provides the math for that protection, yet [“cryptography turns a security problem into a key management problem.”](https://www.aumasson.jp/murphy.html) Because of this shift, my doctoral research at the University of Tennessee's [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), focuses on how users actually manage these keys.
 
 **<i class="fas fa-fw fa-laptop-code"></i> Current Research Focus:**
 
