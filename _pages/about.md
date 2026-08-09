@@ -27,7 +27,7 @@ Historically, the main challenge was simply keeping data hidden. Today, cryptogr
 
 * **2025-Jan**: Started my PhD at UTK.
 * **2024-Feb**: Selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia.
-* **2023-Jul**: [#ChosenforChevening](https://www.chevening.org/scholarships/){: .btn .btn--info .btn--small}
+* **2023-Jul**: [#ChosenforChevening](https://www.chevening.org/scholarships/)
 * **2022-Oct**: Completed Nigeria's mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html).
 
 ---
