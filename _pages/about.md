@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-> [“Cryptography turns a security problem into a key management problem.”](https://www.aumasson.jp/murphy.html) 
-{: .notice--info}
+[“Cryptography turns a security problem into a key management problem.”](https://www.aumasson.jp/murphy.html) 
 
 Historically, the main challenge was simply keeping data hidden. Today, cryptography provides the math that guarantees security—but only if the secret keys are managed correctly. As a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), my research explores how users actually handle these keys.
 
