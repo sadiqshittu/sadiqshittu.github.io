@@ -10,7 +10,13 @@ redirect_from:
 
 # Bio
 
-> _“Cryptography turns a security problem into a key management problem.”_ — [Jean-Philippe Aumasson](https://www.aumasson.jp/murphy.html) 
+<blockquote style="border-left: 4px solid #007bff; background-color: #f8f9fa; padding: 15px 20px; margin: 20px 0; border-radius: 5px; font-size: 1.15em;">
+  <em>“Cryptography turns a security problem into a key management problem.”</em>
+  <footer style="margin-top: 10px; font-size: 0.85em; color: #555;">
+    — <a href="https://www.aumasson.jp/murphy.html" style="text-decoration: none; font-weight: bold;">Jean-Philippe Aumasson</a>
+  </footer>
+</blockquote>
+
 
 Historically, the main challenge was simply keeping data hidden. Today, cryptography provides the math that guarantees security—but only if the secret keys are managed correctly. As a doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), my research explores how users actually handle these keys.
 
