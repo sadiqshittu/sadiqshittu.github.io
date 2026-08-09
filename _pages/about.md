@@ -20,6 +20,7 @@ Historically, the main challenge was simply keeping data hidden. Today, cryptogr
 
 # <i class="fas fa-fw fa-star"></i> Highlights
 
+* **2026-Aug**: Attending my first conference, [USENIX Security '26](https://www.usenix.org/conference/usenixsecurity26), in Baltimore, MD. 🛡️🦀
 * **2025-Jan**: Started my PhD at UTK. 🎓🚀
 * **2024-Feb**: Selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia. 🇭🇷🔐
 * **2023-Jul**: [#ChosenforChevening](https://www.chevening.org/scholarships/) 🇬🇧🏆
