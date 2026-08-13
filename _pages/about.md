@@ -13,11 +13,9 @@ Historically, the core challenge of cybersecurity was simply protecting data. To
 
 As a doctoral student at the University of Tennessee's [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), I study various systems incorporating key management, with the goal of uncovering generalizable principles for designing future usable and secure key management systems. Currently, I am focusing on two domains:
 
-* **Git Commit Signing (Software Supply Chain Security)**
-  I explore how developers use cryptographic keys to establish code provenance in Git. By measuring current adoption, understanding the usability challenges developers face, and learning from successful adopters, I am building user-friendly tools to make commit signing easier for everyone.
+* **Git Commit Signing (Software Supply Chain Security):** I explore how developers use cryptographic keys to establish code provenance in Git. By measuring current adoption, understanding the usability challenges developers face, and learning from successful adopters, I am building user-friendly tools to make commit signing easier for everyone.
   
-* **mTLS (Decentralized Authentication)**
-  I investigate what happens when users are tasked with directly managing their own certificates for TLS authentication.
+* **mTLS (Decentralized Authentication):** I investigate what happens when users are tasked with directly managing their own certificates for TLS authentication.
   
 
 # <i class="fas fa-fw fa-star"></i> Highlights
