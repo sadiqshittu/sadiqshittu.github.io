@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Historically, the core challenge of cybersecurity was simply protecting data. Today, cryptography provides the mathematics for that protection, but ["cryptography turns a security problem into a key management problem."](https://www.aumasson.jp/murphy.html)
+Historically, the challenge was simply protecting data. Today, cryptography provides the maths for security, but ["cryptography turns a security problem into a key management problem."](https://www.aumasson.jp/murphy.html)
 
-As a doctoral student at the University of Tennessee's [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), I study various systems incorporating key management, with the goal of uncovering generalizable principles for designing future usable and secure key management systems. Currently, I am focusing on two domains:
+As a doctoral student at the University of Tennessee's [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), I study various systems incorporating key management, with the goal of identifying generalizable principles for designing future usable and secure key management systems. Currently, I am focusing on two domains:
 
 * **Git Commit Signing (Software Supply Chain Security):** I explore how developers use cryptographic keys to establish code provenance in Git. By measuring current adoption, understanding the usability challenges developers face, and learning from successful adopters, I am building user-friendly tools to make commit signing easier for everyone.
   
