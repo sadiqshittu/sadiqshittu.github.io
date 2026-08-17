@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am a second-year doctoral student at the University of Tennessee’s [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research focuses on key management across various systems, aiming to uncover generalizable design principles for secure and usable cryptographic architectures. Currently, my work centers on:
 
-Historically, the challenge was simply protecting data. Today, cryptography provides the maths for security, but ["cryptography turns a security problem into a key management problem."](https://www.aumasson.jp/murphy.html)
-
-As a doctoral student at the University of Tennessee's [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti), I study various systems incorporating key management, with the goal of identifying generalizable principles for designing future usable and secure key management systems. Currently, I am focusing on two domains:
-
-* **Git Commit Signing (Software Supply Chain Security):** I explore how developers use cryptographic keys to establish code provenance in Git. By measuring current adoption, understanding the usability challenges developers face, and learning from successful adopters, I am building user-friendly tools to make commit signing easier for everyone.
-  
-* **mTLS (Decentralized Authentication):** I investigate what happens when users are tasked with directly managing their own certificates for TLS authentication.
+* **Git Commit Signing (Software Supply Chain Security):** Exploring how developers use cryptographic keys to establish code provenance in Git. By measuring adoption rates, identifying usability barriers, and analyzing successful workflows, I am developing user-friendly tools to streamline commit signing.
+* **mTLS (Decentralized Authentication):** Investigating the key management challenges that emerge when users are tasked with directly managing their own credentials for TLS authentication.
   
 
 # <i class="fas fa-fw fa-star"></i> Highlights
