@@ -10,8 +10,9 @@ redirect_from:
 
 I am a second-year doctoral student at the University of Tennessee’s [USER Lab](https://userlab.utk.edu/), advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research focuses on key management across various systems, aiming to uncover generalizable design principles for designing future usable and secure key management systems. Currently, my work centers on:
 
-* **Git Commit Signing (Software Supply Chain Security):** Exploring how developers use cryptographic keys to establish code provenance in Git. 
-* **mTLS (Decentralized Authentication):** Investigating the key management challenges that emerge when users are tasked with directly managing their own credentials for TLS authentication.
+* **Commit Signing :** Exploring how developers use cryptographic keys to establish code provenance in Git. 
+* **mTLS :** Investigating the key management challenges that emerge when users are tasked with directly managing their own credentials for TLS authentication.
+* **PGP :** Evaluating how modern resources assist users with PGP key management.
   
 
 # <i class="fas fa-fw fa-star"></i> Highlights
