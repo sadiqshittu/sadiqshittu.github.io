@@ -8,22 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti).
-
-
-My research focuses on key management across various systems, aiming to uncover generalizable design principles for designing future usable and secure key management systems. Currently, my work centers on:
-
-* **Commit Signing :** Exploring how developers use cryptographic keys to establish code provenance in Git. 
-* **mTLS :** Investigating the key management challenges that emerge when users are tasked with directly managing their own credentials for TLS authentication.
-* **PGP :** Evaluating how modern resources assist users with PGP key management.
+I am a second-year doctoral student in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). I investigate how users manage cryptograhic keys across different cryptographic systems. My goal is to identify generalizable design principles for future usable and secure key management systems.
   
 
 # <i class="fas fa-fw fa-star"></i> Highlights
 
+* **2026-Aug**: Two papers accepted to ACM CCS 2026: 🎉📄
+  * *"Setting up TLS authentication was hell”: A Usability Study of Client Certificate Authentication*
+  * *A Multi-Month Study of Git Commit Signing*
 * **2026-Aug**: Attended [USENIX Security '26](https://www.usenix.org/conference/usenixsecurity26), in Baltimore, MD. 🛡️🦀
 * **2025-Jan**: Started my PhD at UTK. 🎓🚀
 * **2024-Feb**: Selected to participate in the [Summer School on Real-World Crypto and Privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia. 🇭🇷🔐
 * **2023-Jul**: [#ChosenforChevening](https://www.chevening.org/scholarships/) 🇬🇧🏆
 * **2022-Oct**: Completed Nigeria's mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html). 🇳🇬🎖️
-
----
