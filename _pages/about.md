@@ -20,4 +20,4 @@ I am a second-year doctoral student in the [USER Lab](https://userlab.utk.edu/) 
 * **Sep 2024:** Completed my MSc degree 🎓📜
 * **Feb 2024:** Selected to participate in the [Summer School on Real-World Crypto and Privacy](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia 🇭🇷🔐
 * **Jul 2023:** [#ChosenforChevening](https://www.chevening.org/scholarships/) 🇬🇧🏆
-* **Oct 2022:** Completed Nigeria's mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html) 🇳🇬🎖️
+* **Oct 2022:** Completed Nigeria's mandatory [National Youth Service](https://www.nysc.gov.ng/) 🇳🇬🎖️
