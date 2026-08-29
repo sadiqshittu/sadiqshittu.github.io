@@ -12,11 +12,12 @@ I am a second-year doctoral student in the [USER Lab](https://userlab.utk.edu/) 
   
 # <i class="fas fa-fw fa-star"></i> Highlights
 
-* **Aug 2026:** Two papers accepted to **ACM CCS 2026**: 🎉📄
+* **Aug 2026:** Two papers accepted to ACM CCS 2026. 🎉📄
   * *"Setting up TLS authentication was hell”: A Usability Study of Client Certificate Authentication*
   * *A Multi-Month Study of Git Commit Signing*
-* **Aug 2026:** Attended **USENIX Security 2026** in Baltimore, MD. 🛡️🦀
-* **Jan 2025:** Started my PhD program at UTK. 🎓🚀
+* **Aug 2026:** Attended USENIX Security 2026 in Baltimore, MD. 🛡️🦀
+* **Jan 2025:** Started my PhD at UTK. 🍊
+* **Sep 2024:** Completed my MSc degree. 🎓📜
 * **Feb 2024:** Selected to participate in the [Summer School on Real-World Crypto and Privacy](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia. 🇭🇷🔐
-* **Jul 2023:** Awarded the prestigious [#ChosenforChevening](https://www.chevening.org/scholarships/) Scholarship. 🇬🇧🏆
+* **Jul 2023:** [#ChosenforChevening](https://www.chevening.org/scholarships/) . 🇬🇧🏆
 * **Oct 2022:** Completed Nigeria's mandatory [National Youth Service](https://www.nysc.gov.ng/aboutscheme.html). 🇳🇬🎖️
