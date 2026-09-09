@@ -16,7 +16,7 @@ I am a second-year doctoral student in the [USER Lab](https://userlab.utk.edu/) 
 
 - Aug. 2026: Two papers accepted to ACM CCS 2026:
     - “Setting Up TLS Authentication Was Hell”: A Usability Study of Client Certificate Authentication
-    - A Multi-Month Study of Git Commit Signing*
+    - A Multi-Month Study of Git Commit Signing
 - Aug. 2026: Attended USENIX Security 2026 in Baltimore, MD
 - Jan. 2025: Started my PhD at UTK
 - Sep. 2024: Completed my MSc degree
