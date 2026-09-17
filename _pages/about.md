@@ -23,7 +23,3 @@ I am a PhD candidate in the [USER Lab](https://userlab.utk.edu/) at the Universi
 - **02/2024:** Selected to participate in the [Summer School on Real-World Crypto and Privacy](https://summerschool-croatia.cs.ru.nl/2024/) in Vodice, Croatia
 - **07/2023:** [#ChosenforChevening](https://www.chevening.org/scholarships/)
 - **10/2022:** Completed Nigeria’s mandatory [National Youth Service](https://www.nysc.gov.ng/)
-
-- <span style="background-color: black; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">07/2023:</span> [#ChosenforChevening](https://www.chevening.org/scholarships/)
-
-- <span style="background-color: black; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">10/2022:</span> Completed Nigeria’s mandatory [National Youth Service](https://www.nysc.gov.ng/)
