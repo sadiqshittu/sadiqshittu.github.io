@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). I investigate how users manage cryptographic keys across different systems, with the goal of identifying generalizable design principles for future usable and secure key management systems.
+I am a PhD candidate in the [USER Lab](https://userlab.utk.edu/) at the University of Tennessee, advised by [Dr. Scott Ruoti](https://userlab.utk.edu/scott-ruoti). My research addresses a multi-decade grand challenge in usable security: making cryptographic systems usable for everyday users. Specifically, I study how people manage cryptographic keys across different systems, with the goal of identifying generalizable design principles for future systems.
 
 ### News
 
