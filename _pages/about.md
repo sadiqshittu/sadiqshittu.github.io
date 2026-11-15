@@ -14,9 +14,7 @@ I am a PhD candidate in the [USER Lab](https://userlab.utk.edu/) at the Universi
 
 - **09/2026:** Passed my Ph.D. proposal
 - **08/2026:**
-  - Two papers accepted to ACM CCS 2026:
-    - “Setting Up TLS Authentication Was Hell”: A Usability Study of Client Certificate Authentication
-    - A Multi-Month Study of Git Commit Signing
+  - Two papers accepted to ACM CCS 2026
   - Attended USENIX Security 2026 in Baltimore, MD
 - **01/2025:** Started my PhD at UTK
 - **09/2024:** Completed my MSc degree
